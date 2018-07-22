@@ -16,4 +16,4 @@ Start the node server
 $ npm start
 ```
 
-![screenshot](docs/screenshot.png)
+![screenshot](docs/Screenshot.png)
